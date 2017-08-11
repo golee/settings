@@ -1,0 +1,12 @@
+// 키 바인딩을 이 파일에 넣어서 기본값을 덮어씁니다.
+[{
+	"key": "ctrl+d",
+	"command": "editor.action.deleteLines",
+	"when": "editorTextFocus && !editorReadonly && !editorHasSelection"
+},
+{
+	"key": "ctrl+d",
+	"command": "deleteLeft",
+	"when": "editorTextFocus && !editorReadonly && editorHasSelection"
+},
+]

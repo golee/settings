@@ -1,0 +1,27 @@
+// 설정을 이 파일에 넣어서 기본 설정을 덮어씁니다.
+{
+	"window.zoomLevel": 0,
+	"editor.fontSize": 14,
+	"editor.mouseWheelZoom": true,
+    "files.autoSave": "off",
+    "editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"workbench.editor.tabCloseButton": "off",
+	"workbench.activityBar.visible": true,
+	"zenMode.hideTabs": false,
+	"workbench.iconTheme": "vs-seti",
+	"editor.fontFamily": "consolas",
+	"terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\cmd.exe",
+	"editor.find.autoFindInSelection": true,
+	"editor.minimap.enabled" : false,
+	"editor.renderIndentGuides": false,
+	"git.enableSmartCommit": true,
+	"window.menuBarVisibility": "toggle",
+	"workbench.statusBar.visible": true,
+	"autoprefixer.browsers": [	
+		"last 2 versions",
+		 "> 5%",
+		"ie >= 8"
+	],
+	"files.eol": "\n"
+}
