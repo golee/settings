@@ -23,5 +23,7 @@
 		 "> 5%",
 		"ie >= 8"
 	],
-	"files.eol": "\n"
+	"files.eol": "\n",
+	"php.suggest.basic": false,
+	"workbench.colorTheme": "Panda Extended"
 }
