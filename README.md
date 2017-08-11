@@ -1,2 +1,2 @@
 # settings
-My settings
+My settings repository
